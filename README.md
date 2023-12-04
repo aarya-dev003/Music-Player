@@ -2,9 +2,13 @@
 
 The Music Player App is an Android application developed in Kotlin that allows users to listen to their favorite music tracks, create playlists, and manage their music library efficiently. The app utilizes Firebase for storing user data and managing playlists.
 
-## User Interface
+<img src="https://github.com/aarya-dev003/Music-Player/assets/94800583/f4ef07ed-9031-430d-81a6-2be5369c65ec" alt="App Logo" height="200" width="200">
 
-![musiclogo](https://github.com/aarya-dev003/Music-Player/assets/94800583/f4ef07ed-9031-430d-81a6-2be5369c65ec)
+## User Interface
+<img src="https://github.com/aarya-dev003/Music-Player/assets/94800583/997d3535-41e4-4d99-935c-5c004f4ea85f" alt="Splash Screen" height="700" width="330" margin="8">
+<img src="https://github.com/aarya-dev003/Music-Player/assets/94800583/ac408e89-8e8e-48ba-8554-06f83f12a28f" alt="Login Page" height="700" width="330" margin="8" >
+<img src="https://github.com/aarya-dev003/Music-Player/assets/94800583/5a266f84-2d8f-4fff-998a-72f26d6651c3" alt="Sign Up Page" height="700" width="330" margin="8">
+
 
 ## Features
 
