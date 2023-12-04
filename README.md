@@ -4,7 +4,7 @@ The Music Player App is an Android application developed in Kotlin that allows u
 
 ## User Interface
 
-![App Logo](D:\Downloads\musiclogo.png)
+![musiclogo](https://github.com/aarya-dev003/Music-Player/assets/94800583/f4ef07ed-9031-430d-81a6-2be5369c65ec)
 
 ## Features
 
